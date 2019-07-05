@@ -1,5 +1,5 @@
 # Other Openc2 Work
-The page provides a list of [OpenC2](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2)-related projects and repositories outside of OASIS OpenC2 Technical Committee spaces. Owners of these projects can provide corrections, updates, or removal request via issue or pull requests. Similarly, other projects can be added to the list in the same way.
+The page provides a list of OpenC2-related projects and repositories outside of [OASIS OpenC2 Technical Committee](https://www.oasis-open.org/committees/tc_home.php?wg_abbrev=openc2) spaces. Owners of these projects can provide corrections, updates, or removal request via issue or pull requests. Similarly, other projects can be added to the list in the same way.
 
 Descriptions in the following list are from the repo descriptions or README.md files.
 
